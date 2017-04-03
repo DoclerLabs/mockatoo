@@ -991,11 +991,7 @@ class MockMaker
 				case TInst(t,p): t.get();
 				case TEnum(t,p): t.get();
 				case TType(t,p): t.get();
-				case TAbstract(t,p): 
-					var id = t.get().type.getId().toComplex();
-
-					
-						null;
+				case TAbstract(t,p): null;
 				case _: null;
 			}
 
