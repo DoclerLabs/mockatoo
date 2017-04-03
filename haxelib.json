@@ -12,7 +12,7 @@
 	"url": "http://github.com/misprintt/mockatoo",
 	"dependencies":
 	{
-		"mconsole": "1.6.1"
+		"mconsole": "1.6.1",
 		"tink_macro": "0.13.3"
 	}
 }
